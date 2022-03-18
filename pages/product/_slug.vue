@@ -24,7 +24,7 @@
           loop
           id="bgvid"
         >
-          <source :src="product.video" type="video/mov" />
+          <source :src="product.video" type="video/mp4" />
         </video>
       </div>
 
