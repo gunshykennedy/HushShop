@@ -54,6 +54,6 @@ export default {
   @apply uppercase rounded-md px-4 py-2 bg-indigo-500 text-white flex items-center ring-0 justify-center transform ease-in-out duration-200 hover:bg-indigo-400 focus:outline-none focus:ring-offset-1 focus:ring-2;
 }
 img {
-  @apply rounded-t-md h48 object-cover object-center;
+  @apply rounded-t-md h-48 object-cover object-center;
 }
 </style>
