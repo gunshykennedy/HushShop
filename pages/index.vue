@@ -14,7 +14,7 @@
       <div class="w-full col-span-3 lg:col-span-1 h-96 relative">
         <!-- SECTION: Video -->
         <video class="video-home" playsinline autoplay muted loop id="bgvid">
-          <source src="~assets/videos/video.mov" type="video/mov" /> 
+          <source src="~assets/videos/video.mp4" type="video/mp4" /> 
         </video>
         <!-- !SECTION: Video --> 
       </div>
